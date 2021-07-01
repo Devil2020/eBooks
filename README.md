@@ -7,3 +7,4 @@
 - [Linux Kernel Development - 3rd edition](https://github.com/Abanoub-Asaad/eBooks/blob/main/eBooks/Linux%20Kernel%20Development%203rd%20Edition.pdf)
 - [The Pragmatic Programmer](https://github.com/Abanoub-Asaad/eBooks/blob/main/eBooks/The%20Pragmatic%20Programmer.pdf)
 - [Operating Systems Internals and Design Principles - 7th Edition William_Stallings](https://github.com/Abanoub-Asaad/eBooks/blob/main/eBooks/Operating%20Systems%20Internals%20and%20Design%20Principles%207th%20Edition%20William_Stallings.pdf)
+- [Grokking Algorithms](https://github.com/Abanoub-Asaad/eBooks/blob/main/eBooks/Grokking%20Algorithms.pdf)
